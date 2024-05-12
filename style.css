@@ -1,0 +1,26 @@
+div{
+    height:450px;
+    width:150px;
+    background-color:rgb(43, 5, 73);
+    border-width:10px;
+}
+
+.div1{
+    background-color:red;
+    border-radius:50%;
+    height:150px;
+    width:150px;
+}
+.div2{
+    background-color:yellow;
+    border-radius:50%;
+    height:150px;
+    width:150px;
+
+}
+.div3{
+    background-color:green;
+    border-radius:50%;
+    height:150px;
+    width:150px;
+}
